@@ -4,3 +4,4 @@ Student B: Ovo je moja verzija.
 Student A: Ovo je moja verzija.
 
 A
+B
